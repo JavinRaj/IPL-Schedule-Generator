@@ -4,7 +4,7 @@ import Form from 'react-bootstrap/Form';
 import InputGroup from 'react-bootstrap/InputGroup';
 import Button from 'react-bootstrap/Button';
 import CloseButton from 'react-bootstrap/CloseButton';
-// import MatchTable from '../components/table';
+import MatchTable from '../components/table';
 import Schedule from '../components/schedule';
 
 function App() {
